@@ -101,8 +101,7 @@ if __name__ == '__main__':
 
 got the mysql current user as:
 
-![image-20180915203543131](/Users/kunkun/Library/Application Support/typora-user-images/image-20180915203543131.png)
-
+![][1]
 
 
 ------
@@ -210,7 +209,7 @@ if __name__ == '__main__':
 
 got the mysql current db as following:
 
-![image-20180915210311562](/Users/kunkun/Library/Application Support/typora-user-images/image-20180915210311562.png)
+![][2]
 
 ------
 
@@ -302,7 +301,7 @@ if __name__ == '__main__':
 
 got the mysql current user as following:
 
-![image-20180915231147488](/Users/kunkun/Library/Application Support/typora-user-images/image-20180915231147488.png)
+![][3]
 
 ------
 
@@ -402,7 +401,7 @@ if __name__ == '__main__':
 
 got the mysql current user as following:
 
-![image-20180915231931575](/Users/kunkun/Library/Application Support/typora-user-images/image-20180915231931575.png)
+![][4]
 
 ------
 
@@ -490,7 +489,7 @@ Connection: close
 
 get the current user of mysql:
 
-![image-20180915224537685](/Users/kunkun/Library/Application Support/typora-user-images/image-20180915224537685.png)
+![][5]
 
 ------
 
@@ -529,7 +528,7 @@ Connection: close
 
 get the current user of mysql:
 
-![image-20180916004242561](/Users/kunkun/Library/Application Support/typora-user-images/image-20180916004242561.png)
+![][6]
 
 ------
 
@@ -556,7 +555,7 @@ Connection: close
 
 get the current user of mysql:
 
-![image-20180916005759115](/Users/kunkun/Library/Application Support/typora-user-images/image-20180916005759115.png)
+![][7]
 
 ------
 
@@ -593,7 +592,7 @@ Connection: close
 
 get the current user of mysql:
 
-![image-20180916010415143](/Users/kunkun/Library/Application Support/typora-user-images/image-20180916010415143.png)
+![][8]
 
 ------
 
@@ -693,11 +692,19 @@ if __name__ == '__main__':
 
 got the mysql current user as:
 
-![image-20180916015727597](/Users/kunkun/Library/Application Support/typora-user-images/image-20180916015727597.png)
-
+![][9]
 
 
 ------
 
 ##  
 
+  [1]: ./files/1.png "1"
+  [2]: ./files/2.png "2"
+  [3]: ./files/3.png "3"
+  [4]: ./files/4.png "4"
+  [5]: ./files/5.png "5"
+  [6]: ./files/6.png "6"
+  [7]: ./files/7.png "7"
+  [8]: ./files/8.png "8"
+  [9]: ./files/9.png "9"
